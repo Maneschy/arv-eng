@@ -1574,7 +1574,7 @@
 		transition: all 0.3s ease 0s;
 	}
 	.magnifier:hover .buttons {
-		opacity: 1;
+		opacity: 5;
 		visibility: visible;
 		-webkit-transform: scale(1);
 		-moz-transform: scale(1);
@@ -1583,18 +1583,18 @@
 		transform: scale(1);
 	}
 	.entry:hover .magnifier { 
-		opacity: 1;
+		opacity: 0.9;
 		visibility: visible;
 	}
 	.magnifier {
 		background:#000000;
-		background:rgba(0,0,0,0.8);
+		background:#1C75BC;
 		position:absolute;
 		top:0;
 		left:0;
 		bottom:0;
 		right:0;
-		opacity:0;
+		opacity:0.3;
 		-webkit-transition:all .3s ease-in-out;
 		-moz-transition:all .3s ease-in-out;
 		-ms-transition:all .3s ease-in-out;
@@ -1653,7 +1653,7 @@
 		padding:30px 0;
 	}
 	.custom-message {
-		padding:90px 0;
+		padding:50px 0;
 	}
 	.custom-message h1 {
 		text-align:center;
@@ -2792,7 +2792,7 @@
 	.btn-primary:active,
 	.btn-primary.active {
 		color: #ffffff;
-		background-color: #222222;
+		background-color: #1C75BC;
 	}
 	.arrow-up {
 		border-bottom: 5px solid #FFFFFF;
