@@ -15,38 +15,16 @@
 		</div>
 	</section><!-- end post-wrapper-top -->
 
-    <section class="white-wrapper nopadding">        	<div class="container">    	            	        <div class="contact_form">    			<div id="message"></div>    	            <form id="contactform" action="http://jollythemes.com/jollyany/jollyany/contact.php" name="contactform" method="post">    					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">    						<input type="text" name="name" id="contact_name" class="form-control" placeholder="Name">     						<input type="text" name="name" id="email_address" class="form-control" placeholder="Email Address">     						<input type="text" name="name" id="website" class="form-control" placeholder="Website">     					</div>    					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">    						<input type="text" name="name" id="subject" class="form-control" placeholder="Subject">     						<textarea class="form-control" name="comments" id="comments" rows="6" placeholder="Message"></textarea>    						<button type="submit" value="SEND" id="submit" class="btn btn-lg btn-primary pull-right">GET A QUOTE</button>    					</div>    	            </form>        	        </div><!-- end contact-form -->    	            	        <div class="clearfix"></div>    	            	        <div class="row padding-top margin-top">    				<div class="contact_details">    					<div class="col-lg-4 col-sm-4 col-md-6 col-xs-12">    						<div class="text-center">    							<div class="wow swing">    								<div class="contact-icon">    									<a href="#" class=""> <i class="fa fa-map-marker fa-3x"></i> </a>    								</div><!-- end dm-icon-effect-1 -->    	                             <p>    	                             <b>Condomínio Atlantic Tower</b><br/>    	                             Av. Djalma Batista, 1719 • sala 402-B<br/>    	                             Chapada • Manaus • AM    	                             </p>    							</div><!-- end service-icon -->    						</div><!-- end miniboxes -->    					</div><!-- end col-lg-4 -->    	                    					<div class="col-lg-4 col-sm-4 col-md-6 col-xs-12">    						<div class="text-center">    							<div class="wow swing">    								<div class="contact-icon">    									<a href="#" class=""> <i class="fa fa-phone fa-3x"></i> </a>    								</div><!-- end dm-icon-effect-1 -->    	                             <p><strong>Phone:</strong> (1005) 5999 4446<br>    								<strong>Phone:</strong> (0422) 5999 4446</p>    							</div><!-- end service-icon -->    						</div><!-- end miniboxes -->    					</div><!-- end col-lg-4 -->      	    					<div class="col-lg-4 col-sm-4 col-md-6 col-xs-12">    						<div class="text-center">    							<div class="wow swing">    								<div class="contact-icon">    									<a href="#" class=""> <i class="fa fa-envelope-o fa-3x"></i> </a>    								</div><!-- end dm-icon-effect-1 -->    	                             <p><strong>Email:</strong> jollythemes@gmail.com<br>    								<strong>Skype:</strong> jollythemes</p>    							</div><!-- end service-icon -->    						</div><!-- end miniboxes -->    					</div><!-- end col-lg-4 -->                      				</div><!-- end contact_details -->    	        </div><!-- end margin-top --><br><br>    	        </div>
+    <section class="white-wrapper nopadding">        	<div class="container">    	            	        <div class="contact_form">    			<div id="message"></div>    	            <form id="contactform" action="http://jollythemes.com/jollyany/jollyany/contact.php" name="contactform" method="post">    					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">    						<input type="text" name="name" id="contact_name" class="form-control" placeholder="Nome">     						<input type="text" name="name" id="email_address" class="form-control" placeholder="Email ">     						<input type="text" name="name" id="website" class="form-control" placeholder="Telefones">     					</div>    					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">    						<input type="text" name="name" id="subject" class="form-control" placeholder="Assunto">     						<textarea class="form-control" name="comments" id="comments" rows="6" placeholder="Menssagem"></textarea>    						<button type="submit" value="SEND" id="submit" class="btn btn-lg btn-primary pull-right">ENVIAR</button>    					</div>    	            </form>        	        </div><!-- end contact-form -->    	            	        <div class="clearfix"></div>    	            	        <div class="row padding-top margin-top">    				<div class="contact_details">    					<div class="col-lg-4 col-sm-4 col-md-6 col-xs-12">    						<div class="text-center">    							<div class="wow swing">    								<div class="contact-icon">    									<a href="#" class=""> <i class="fa fa-map-marker fa-3x"></i> </a>    								</div><!-- end dm-icon-effect-1 -->    	                             <p>    	                             <b>Condomínio Atlantic Tower</b><br/>    	                             Av. Djalma Batista, 1719 • sala 402-B<br/>    	                             Chapada • Manaus • AM    	                             </p>    							</div><!-- end service-icon -->    						</div><!-- end miniboxes -->    					</div><!-- end col-lg-4 -->    	                    					<div class="col-lg-4 col-sm-4 col-md-6 col-xs-12">    						<div class="text-center">    							<div class="wow swing">    								<div class="contact-icon">    									<a href="#" class=""> <i class="fa fa-phone fa-3x"></i> </a>    								</div><!-- end dm-icon-effect-1 -->    	                             <p><strong>Fone:</strong> +55 (92) 0000 0000<br>    								<strong>Fax:</strong> +55 (92) 0000 0000</p>    							</div><!-- end service-icon -->    						</div><!-- end miniboxes -->    					</div><!-- end col-lg-4 -->      	    					<div class="col-lg-4 col-sm-4 col-md-6 col-xs-12">    						<div class="text-center">    							<div class="wow swing">    								<div class="contact-icon">    									<a href="#" class=""> <i class="fa fa-envelope-o fa-3x"></i> </a>    								</div><!-- end dm-icon-effect-1 -->    	                             <p><strong>Email:</strong> gerencia@arvengenharia.com.br<br>    								<strong>Email:</strong> engenharia@arvengenharia.com.br</p>    								<strong>Skype:</strong> arv.eng</p>    							</div><!-- end service-icon -->    						</div><!-- end miniboxes -->    					</div><!-- end col-lg-4 -->                      				</div><!-- end contact_details -->    	        </div><!-- end margin-top --><br><br>    	        </div>
     	<div id="map"></div>
         <div class="clearfix"></div>
         <!-- end container -->
     </section><!-- end map wrapper -->
 
-	<footer id="footer-style-1">
+	<footer id="footer-style-1" style="padding: none;">
     </footer><!-- end #footer-style-1 -->    
 
-<div id="copyrights">
-    	<div class="container">
-			<div class="col-lg-5 col-md-6 col-sm-12">
-            	<div class="copyright-text">
-                    <p>Copyright © 2014 - Designed by Jolly Themes</p>
-                </div><!-- end copyright-text -->
-			</div><!-- end widget -->
-			<div class="col-lg-7 col-md-6 col-sm-12 clearfix">
-				<div class="footer-menu">
-                    <ul class="menu">
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">Headers</a></li>
-                        <li><a href="#">Portfolio</a></li>
-                        <li><a href="#">Features</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                    </ul>
-                </div>
-			</div><!-- end large-7 --> 
-        </div><!-- end container -->
-    </div><!-- end copyrights -->
-    
-	<div class="dmtop">Scroll to Top</div>
+<div id="copyrights" style="background-color: #1C75BC; color: #fff; font-size: 12px;">    	<div class="container">			<div class="col-lg-7 col-md-6 col-sm-12 ">			<img src="images/logo-arv-footer.png" width="25%" alt=""></a>				<!--<div class="footer-menu">                    <ul class="menu">                        <li class="active"><a href="#">Home</a></li>                        <li><a href="#">About us</a></li>                        <li><a href="#">Headers</a></li>                        <li><a href="#">Portfolio</a></li>                        <li><a href="#">Features</a></li>                        <li><a href="contact.html">Contact</a></li>                    </ul>                </div>-->			</div><!-- end large-7 --> 							<div class="col-lg-5 col-md-6 col-sm-12 clearfix">			    	<div class="copyright-text">			            <p>Copyright © 2016 • Todos os direitos reservados • by <a href="#" target="_blank">Maneschy.com</a> </p>			        </div><!-- end copyright-text -->				</div><!-- end widget -->        </div><!-- end container -->    </div>    <div class="dmtop">Topo</div>
         
   <!-- Main Scripts-->
   <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
@@ -65,7 +43,7 @@
 	(function($) {
 	  "use strict";
 		var locations = [
-		['<div class="infobox"><h3 class="title"><a href="about1.html">OUR USA OFFICE</a></h3><span>NEW YORK CITY 2045 / 65</span><br>+90 555 666 77 88</p></div></div></div>', -3.100450, -60.024351, 2]
+		['<div class="infobox"><h3 class="title">ARV Engenharia</h3><span>Condomínio Atlantic Tower</span><br/><span>Av. Djalma Batista, 1719 • Sala 402-B</span><br>+55 92 0000 0000</p></div></div></div>', -3.100450, -60.024351, 2]
 		];		
 	
 		var map = new google.maps.Map(document.getElementById('map'), {
